@@ -21,7 +21,7 @@ struct ContentView: View {
                     Spacer()
 
                     HStack {
-                        Text("Loti")
+                        Text("Loti")    
                             .font(.largeTitle.bold())
                         Spacer()
                     }
